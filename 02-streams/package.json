@@ -1,0 +1,16 @@
+{
+  "name": "file-stream-parser",
+  "version": "1.0.0",
+  "description": "File stream parser example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lcampana",
+  "license": "MIT",
+  "dependencies": {
+    "JSONStream": "^1.1.4",
+    "csv-streamify": "^3.0.4",
+    "moment": "^2.15.0"
+  }
+}
